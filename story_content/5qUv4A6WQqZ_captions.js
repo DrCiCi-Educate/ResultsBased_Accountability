@@ -1,1 +1,0 @@
-window.globalLoadJsAsset('story_content/5qUv4A6WQqZ_captions.js', {"captions":[{"langCode":"en","data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.99.34516.0%0D%0A%0D%0A00:00:00.064%20--%3E%2000:00:02.140%0D%0A7.%20What%20do%20we%20propose%20to%20do?%0D%0A%0D%0A"}]})
